@@ -1,0 +1,108 @@
+1897  cd FirstWebStudy/
+ 1898  ls
+ 1899  cd ..
+ 1900  cd vunowebsite/
+ 1901  ls
+ 1902  cd Application/
+ 1903  ls
+ 1904  cd ..
+ 1905  vi rou
+ 1906  ls
+ 1907  cd Application/
+ 1908  ls
+ 1909  vi routes.py
+ 1910  sudo adduser runique
+ 1911  sudo adduser jisungeeda
+ 1912  ifoncif
+ 1913  ifconfig
+ 1914  ls
+ 1915  git clone https://github.com/sisobus/FirstWebStudy.git
+ 1916  ls
+ 1917  cd FirstWebStudy/
+ 1918  ls
+ 1919  ls -al
+ 1920  cd .git
+ 1921  ls
+ 1922  ls -al
+ 1923  cd ..
+ 1924  ls
+ 1925  touch a
+ 1926  ls
+ 1927  git add .
+ 1928  git commit -m "난 처음이야"
+ 1929  ls
+ 1930  git push origin master
+ 1931  git status
+ 1932  touch b
+ 1933  touch c
+ 1934  git status
+ 1935  git add b
+ 1936  git status
+ 1937  git add .
+ 1938  git status
+ 1939  git commit -m "난두번째야"
+ 1940  git status
+ 1941  git push origin master
+ 1942  ls
+ 1943  rm a
+ 1944  rm b
+ 1945  rm c
+ 1946  git status
+ 1947  git add .
+ 1948  git rm a
+ 1949  git rm b
+ 1950  git rm c
+ 1951  git status
+ 1952  git commit -m "다 지울거야"
+ 1953  git push origin master
+ 1954  virtualenv venv
+ 1955  . venv/bin/activate
+ 1956  mkdir Appication
+ 1957  rm -rf Appication/
+ 1958  mkdir Application
+ 1959  cd Application/
+ 1960  ls
+ 1961  vi routes.py
+ 1962  ls
+ 1963  git status
+ 1964  cd ..
+ 1965  ls
+ 1966  vi .gitignore
+ 1967  git status
+ 1968  git add .
+ 1969  git commit -m "플라스크 웹서버 시작"
+ 1970  git push origin amster
+ 1971  git push origin master
+ 1972  cd Application/
+ 1973  vi routes.py
+ 1974  python routes.py
+ 1975  pip install flask
+ 1976  python routes.py
+ 1977  ls
+ 1978  vi routes.py
+ 1979  ls
+ 1980  mkdir templates
+ 1981  cd templates/
+ 1982  ls
+ 1983  vi index.html
+ 1984  vi jisung.html
+ 1985  ls
+ 1986  cd ..
+ 1987  ls
+ 1988  python routes.py
+ 1989  vi jisung.html
+ 1990  vi routes.py
+ 1991  python routes.py
+ 1992  vi routes.py
+ 1993  python routes.py
+ 1994  vi routes.py
+ 1995  ls
+ 1996  cd ..
+ 1997  ls
+ 1998  git add .
+ 1999  git commit -m "첫날은 여기까지"
+ 2000  git push origin master
+ 2001  ls
+ 2002  cd FirstWebStudy/
+ 2003  ls
+ 2004  history
